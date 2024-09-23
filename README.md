@@ -1,14 +1,15 @@
-Simple Calendar
-A simple calendar application built with HTML, CSS, and JavaScript that allows users to view the current month, navigate between months, and display the days of the month.
+# Calendar : 
 
-Features
+- A calendar application built with HTML, CSS, and JavaScript that allows users to view the current month, navigate between months, and display the days of the month.
+
+# Features
 Displays the current month and year
 Navigates to previous and next months
 Highlights the current day
-Technologies Used
-HTML
-CSS
-JavaScript
+Technologies Used : 
+1.HTML
+2.CSS
+3.JavaScript
 Installation
 Clone the repository:
 
